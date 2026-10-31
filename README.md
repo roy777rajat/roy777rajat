@@ -5,7 +5,7 @@
 <h1 align="center">Rajat Roy</h1>
 
 <p align="center">
-  <strong>Solution Architect | Data &amp; AI | Integration Architecture</strong><br>
+  <strong>Solution Architect | Data &amp; AI | Integration Architect</strong><br>
   Building secure, scalable data ecosystems and modernizing enterprise operations.
 </p>
 
@@ -20,13 +20,12 @@
 
 ## 🏢 Experience
 
-### Solution Architect · Takeda Pharmaceuticals
-**September 2026 – Present**  
-Working with Data and AI to shape practical, business-aligned solutions.
-
-### Associate Consultant · Tata Consultancy Services
-**November 2010 – October 2026**  
-Delivered solutions across the insurance domain, spanning Data & AI and Integration Architecture.
+| Category | Organization | Role & contribution | Period | Tech stack |
+| --- | --- | --- | --- | --- |
+| 💊 Life sciences | Takeda Pharmaceuticals | **Solution Architect**<br>Working with Data and AI on business-aligned solutions. | Sep 2026 – Present | 📊 Data · 🤖 AI |
+| 🏦 Insurance & financial services | Tata Consultancy Services | **Associate Consultant**<br>Insurance-domain Data & AI; integration architecture. | Nov 2010 – Oct 2026 | 📊 Data · 🤖 AI · 🔗 Integration |
+| 🧩 Technology consulting | Cognizant Technology Solutions | **Technical Analyst**<br>Designed Pega process flows, user interfaces, and business rules; contributed to testing, debugging, and SDLC. | Mar 2010 – Nov 2010 | 🟣 Pega · 🔄 SDLC |
+| 📰 Media & publishing | Bennett, Coleman and Co. Ltd. (Times Group) | **System Engineer**<br>Developed MIS tools and user interfaces; partnered with Press, Pre-Press, and product teams. | Nov 2007 – Mar 2010 | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript" /> <img src="https://img.shields.io/badge/AJAX-356?style=flat-square" alt="AJAX" /> <img src="https://img.shields.io/badge/XML-767?style=flat-square" alt="XML" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> |
 
 ---
 
