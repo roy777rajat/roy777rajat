@@ -74,7 +74,7 @@ My portfolio highlights global delivery experience across India, the UAE, South 
 
 All 19 owned public project repositories are listed below; forks and this profile repository are excluded. Select a linked project name to open its repository. Live URLs appear only where a public app or demo is documented. `Not published` means no public live URL was listed in the repository.
 
-<details>
+<details name="project-categories" open>
 <summary>📡 Data Platforms & Streaming (7 projects)</summary>
 
 | Tech domain | 🔗 Project link | Description | Live link | Tech stack |
@@ -88,7 +88,7 @@ All 19 owned public project repositories are listed below; forks and this profil
 | 🏏 Sports data streaming | [Live Cricket Data](https://github.com/roy777rajat/stream-cricket-live-data) | Streaming prototype for cricket live-score data, with Kinesis extraction notebooks. | Not published | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/AWS_Kinesis-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS Kinesis" /> |
 </details>
 
-<details>
+<details name="project-categories">
 <summary>🏦 Insurance & Financial Platforms (3 projects)</summary>
 
 | Tech domain | 🔗 Project link | Description | Live link | Tech stack |
@@ -98,7 +98,7 @@ All 19 owned public project repositories are listed below; forks and this profil
 | 🏦 Insurance analytics & ML | [Insurance Fraud Detection](https://github.com/roy777rajat/insurance-fraud-databricks-hackathon) | Databricks Lakehouse pipeline that scores motor claims and supports investigator analysis. | Databricks dashboard; workspace URL not listed | <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/Delta_Lake-003366?style=flat-square&logo=delta&logoColor=white" alt="Delta Lake" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> |
 </details>
 
-<details>
+<details name="project-categories">
 <summary>🤖 AI, Automation & Decision Support (6 projects)</summary>
 
 | Tech domain | 🔗 Project link | Description | Live link | Tech stack |
@@ -111,7 +111,7 @@ All 19 owned public project repositories are listed below; forks and this profil
 | 🧰 Agentic workflow APIs | [MCP Defect Assistant API](https://github.com/roy777rajat/mcp-defect-assistant-api) | MCP API for defect-management workflows, with a Render deployment configuration. | Render deployment configured; URL not listed | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" /> <img src="https://img.shields.io/badge/MCP-5865F2?style=flat-square" alt="MCP" /> |
 </details>
 
-<details>
+<details name="project-categories">
 <summary>🧩 Web & Application Prototypes (3 projects)</summary>
 
 | Tech domain | 🔗 Project link | Description | Live link | Tech stack |
