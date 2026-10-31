@@ -2,6 +2,16 @@
   <img src="./assets/banner.png" width="100%" alt="Rajat Roy | Solution Architect, Data and AI" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/roy777rajat?tab=followers"><img src="https://img.shields.io/github/followers/roy777rajat?label=%F0%9F%91%A5%20Followers&style=flat-square&color=2D6A5B" alt="GitHub followers" /></a>
+  <a href="https://github.com/roy777rajat?tab=following"><img src="https://img.shields.io/badge/%F0%9F%94%97%20Following-1-2D6A5B?style=flat-square" alt="Following 1 account" /></a>
+  <a href="https://github.com/roy777rajat?tab=repositories"><img src="https://img.shields.io/badge/%F0%9F%A7%AA%20Projects%20%26%20Experiments-19-2D6A5B?style=flat-square" alt="19 public projects and experiments" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roy777rajat&theme=default" alt="GitHub open-source commits and activity statistics" />
+</p>
+
 <h1 align="center">Rajat Roy</h1>
 
 <p align="center">
