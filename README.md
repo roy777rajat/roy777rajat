@@ -41,9 +41,7 @@
 
 ## 🧭 Professional Profile
 
-I work at the intersection of enterprise architecture, data engineering, and AI. My experience includes insurance transformation across claims, policy administration, underwriting, and billing, with a focus on cloud data platforms, real-time pipelines, automation, and governed solutions.
-
-My portfolio highlights global delivery experience across India, the UAE, South Africa, and the UK, along with 12+ professional certifications and industry recognitions.
+**Data can be chaotic. The experience shouldn’t be.** I turn complexity into useful insight with Data + AI, then make the journey from first question to next best action feel effortless.
 
 ---
 
