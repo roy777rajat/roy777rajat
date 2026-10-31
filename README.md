@@ -72,12 +72,12 @@ My portfolio highlights global delivery experience across India, the UAE, South 
 
 ## 🚀 Selected Projects
 
-All 19 owned public project repositories are listed below; forks and this profile repository are excluded. Live URLs appear only where a public app or demo is documented. `Not published` means no public live URL was listed in the repository.
+All 19 owned public project repositories are listed below; forks and this profile repository are excluded. Select a linked project name to open its repository. Live URLs appear only where a public app or demo is documented. `Not published` means no public live URL was listed in the repository.
 
 <details>
 <summary>📡 Data Platforms & Streaming (7 projects)</summary>
 
-| Tech domain | Project | Description | Live link | Tech stack |
+| Tech domain | 🔗 Project link | Description | Live link | Tech stack |
 | --- | --- | --- | --- | --- |
 | ✈️ Aviation & serverless data | [AviationStack](https://github.com/roy777rajat/aviationstack) | Scheduled flight-status ingestion and email notifications using AWS serverless services. | Not published | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/AWS_Lambda-232F3E?style=flat-square&logo=awslambda&logoColor=FF9900" alt="AWS Lambda" /> <img src="https://img.shields.io/badge/EventBridge-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="Amazon EventBridge" /> |
 | ☁️ Cloud networking | [Databricks Home Lab](https://github.com/roy777rajat/databricks-home-lab) | Cost-optimized AWS customer-managed VPC design for Databricks workloads. | Not published | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /> |
@@ -91,7 +91,7 @@ All 19 owned public project repositories are listed below; forks and this profil
 <details>
 <summary>🏦 Insurance & Financial Platforms (3 projects)</summary>
 
-| Tech domain | Project | Description | Live link | Tech stack |
+| Tech domain | 🔗 Project link | Description | Live link | Tech stack |
 | --- | --- | --- | --- | --- |
 | 🏦 Insurance data engineering | [AWS DMS Insurance Pipeline](https://github.com/roy777rajat/aws-dms-pipeline) | Cost-aware insurance analytics pipeline using continuous database replication and Lakehouse processing. | Not published | <img src="https://img.shields.io/badge/AWS_DMS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS DMS" /> <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" /> |
 | 💹 FinTech & Lakehouse apps | [Personal Finance Dashboard](https://github.com/roy777rajat/databricks-finance-dashboard) | Streaming transaction ingestion, medallion transformations, Lakebase serving, and a Streamlit dashboard. | Databricks App; workspace URL not listed | <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL / Lakebase" /> |
@@ -101,7 +101,7 @@ All 19 owned public project repositories are listed below; forks and this profil
 <details>
 <summary>🤖 AI, Automation & Decision Support (6 projects)</summary>
 
-| Tech domain | Project | Description | Live link | Tech stack |
+| Tech domain | 🔗 Project link | Description | Live link | Tech stack |
 | --- | --- | --- | --- | --- |
 | 🤖 AI & knowledge search | [AI Document Repository](https://github.com/roy777rajat/ai-document-repo) | Semantic search over documents stored in AWS S3, with Redis-backed retrieval. | Not published | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazons3&logoColor=FF9900" alt="AWS S3" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> |
 | ☁️ Cloud & agent integration | [AWS MCP Server](https://github.com/roy777rajat/AWS-MCP-SERVER) | MCP/JSON-RPC service connecting AI clients to AWS operations and observability tools. | Render deployment documented; URL not listed | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" /> <img src="https://img.shields.io/badge/MCP-5865F2?style=flat-square" alt="MCP" /> |
@@ -114,7 +114,7 @@ All 19 owned public project repositories are listed below; forks and this profil
 <details>
 <summary>🧩 Web & Application Prototypes (3 projects)</summary>
 
-| Tech domain | Project | Description | Live link | Tech stack |
+| Tech domain | 🔗 Project link | Description | Live link | Tech stack |
 | --- | --- | --- | --- | --- |
 | 🖥️ Web development | [CloudForge Portfolio](https://github.com/roy777rajat/cloudforge-portolio) | React-based portfolio site built with Vite, TypeScript, and Tailwind CSS. | Not published | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> |
 | 🎮 Games | [Tennis Game](https://github.com/roy777rajat/gamechallenger) | Python tennis game with single-player AI, local multiplayer, and difficulty settings. | Not published | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Pygame-3776AB?style=flat-square" alt="Pygame" /> |
